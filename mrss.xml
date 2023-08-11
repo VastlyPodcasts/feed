@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:amznNews="http://www.a2z.com/amznNews" version="2.0">
+  <channel>
+    <atom:link href="https://vastlypodcasts.github.io/feed/mrss.xml" rel="self" type="application/rss+xml"/>
+    <title>Vastly Business</title>
+    <link>https://www.vastlypodcasts.com/</link>
+    <description>A video-first podcast discovery platform, available on iOS.</description>
+    <language>en-us</language>
+    <pubDate>Tue, 16 May 2023 02:00:00 -0700</pubDate>
+    <managingEditor>admin@vastlypodcasts.com (Buzz)</managingEditor>
+    <webMaster>admin@vastlypodcasts.com (Casey)</webMaster>
+    <item>
+      <title>AI Expert: 3 Reasons AI Would Turn Against Humans</title>
+      <description>Artificial intelligence safety expert Eliezer Yudkowsky discusses the dangers that come with future technology advancements.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/AI/3%20Reasons%20AI%20Would%20Turn%20Against%20Humans.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">75694c8e-6d26-46fa-b4f0-c875bcd01e83</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/3%20Reasons%20AI%20Would%20Turn%20Against%20Humans.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">AI Expert: 3 Reasons AI Would Turn Against Humans</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/3%20Reasons%20AI%20Would%20Turn%20Against%20Humans.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Advice for Founders in Today’s VC Landscape</title>
+      <description>Co-Founder of Box Aaron Levine gives his advice to founders amid a new paradigm in venture capital.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Advice%20for%20Founders%20in%20Todays%20VC%20Landscape.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">1fafc048-35ca-4bd2-9fd0-3c644ddf7960</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Advice%20for%20Founders%20in%20Todays%20VC%20Landscape.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Advice for Founders in Today’s VC Landscape</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Advice%20for%20Founders%20in%20Todays%20VC%20Landscape.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Bejul Somaia of Lightspeed Ventures on Investing in India</title>
+      <description>Lightspeed’s Bejul Somaia joins the Eric Newcomer to talk about Lightspeed’s investments in India and its global strategy.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Bejul%20Somaia%20of%20Lightspeed%20Ventures%20on%20Investing%20in%20India.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">a5752b54-cb32-4348-805d-bc3a73c21ea7</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Bejul%20Somaia%20of%20Lightspeed%20Ventures%20on%20Investing%20in%20India.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Bejul Somaia of Lightspeed Ventures on Investing in India</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Bejul%20Somaia%20of%20Lightspeed%20Ventures%20on%20Investing%20in%20India.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Bloomberg’s Matt Levine on Leaving Goldman Sachs</title>
+      <description>Bloomberg columnist Matt Levine talks about his career path from lawyer to banker to writer.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Bloombergs%20Matt%20Levine%20on%20Leaving%20Goldman%20Sachs.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">cfd328c8-8194-46d1-bdc7-b68fb2552c60</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Bloombergs%20Matt%20Levine%20on%20Leaving%20Goldman%20Sachs.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Bloomberg’s Matt Levine on Leaving Goldman Sachs</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Bloombergs%20Matt%20Levine%20on%20Leaving%20Goldman%20Sachs.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Building a Next-Gen Defense Tech Company</title>
+      <description>VCs Sarah Guo and Elad Gil sit down with Next-Gen Defense Tech Anduril’s CEO, Brian Schimpf to discuss what it's like building Anduril.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Building%20a%20Next%20Generation%20Defense%20Tech%20Company.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">88a6d02f-bc3d-4795-857e-7736f187582e</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Building%20a%20Next%20Generation%20Defense%20Tech%20Company.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Building a Next-Gen Defense Tech Company</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Building%20a%20Next%20Generation%20Defense%20Tech%20Company.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Building an Investment Thesis and Sourcing Deals</title>
+      <description>Dawit Heck of Bain Capital Ventures joins Partner Path to talk about his approach to investing and how he gets in touch with good companies.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Building%20an%20Investment%20Thesis%20and%20Sourcing%20Deals.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">5e066494-2c54-4212-aeaf-a18004faac67</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Building%20an%20Investment%20Thesis%20and%20Sourcing%20Deals.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Building an Investment Thesis and Sourcing Deals</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Building%20an%20Investment%20Thesis%20and%20Sourcing%20Deals.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Co-Founder of Lightspeed: How to Invest Amid Hype Cycles</title>
+      <description>Ravi Mhatre is a co-founder of Lightspeed Venture Partners Over his two decades at Lightspeed, Mhatre has invested in Nutanix, MuleSoft, and AppDynamics to name a few.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Co-Founder%20of%20Lightspeed%20on%20How%20to%20Invest%20Amid%20Hype%20Cycles.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">c27d28ad-b2cb-45f2-8045-ae3424f16af3</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Co-Founder%20of%20Lightspeed%20on%20How%20to%20Invest%20Amid%20Hype%20Cycles.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Co-Founder of Lightspeed: How to Invest Amid Hype Cycles</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Co-Founder%20of%20Lightspeed%20on%20How%20to%20Invest%20Amid%20Hype%20Cycles.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Co-Founder of Skype on the Risks of AI</title>
+      <description>Jaan Tallinn is the Co-Founder of Skype and one of the most prominent voices in AI safety.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Co-Founder%20of%20Skype%20on%20the%20Risks%20of%20AI.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">9c37b59b-e194-4fca-96c5-754d8859b8fd</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Co-Founder%20of%20Skype%20on%20the%20Risks%20of%20AI.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Co-Founder of Skype on the Risks of AI</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Co-Founder%20of%20Skype%20on%20the%20Risks%20of%20AI.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Defense Tech CEO: Autonomous Drones, Submarines, and More</title>
+      <description>VCs Sarah Guo and Elad Gil sit down with Next-Gen Defense Tech Anduril’s CEO, Brian Schimpf to discuss the future of weapons.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Defense%20Tech%20CEO%20Autonomous%20Drones%20Submarines%20and%20More.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">9b84c183-6605-48f1-88ec-9e5b0917865e</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Defense%20Tech%20CEO%20Autonomous%20Drones%20Submarines%20and%20More.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Defense Tech CEO: Autonomous Drones, Submarines, and More</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Defense%20Tech%20CEO%20Autonomous%20Drones%20Submarines%20and%20More.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Facebook's Impact on AI Research Lab Google DeepMind</title>
+      <description>Mustafa Suleyman, Co-founder of Google DeepMind, joins VCs Sarah Guo and Elad Gil to discuss how Facebook's growth impacted him.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Facebooks%20Impact%20on%20AI%20Research%20Lab%20Google%20DeepMind.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">9ff39007-2558-4e89-b082-9ed1ee0f6fa4</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Facebooks%20Impact%20on%20AI%20Research%20Lab%20Google%20DeepMind.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Facebook's Impact on AI Research Lab Google DeepMind</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Facebooks%20Impact%20on%20AI%20Research%20Lab%20Google%20DeepMind.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Food's Outsized Impact on Us All</title>
+      <description>Jonathan Neman, Sweetgreen's CEO &amp; Founder, on just how important healthy food is - and just how unhealthy most foods are.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Foods%20outsized%20impact%20on%20us%20all.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">cd7df3ff-f094-4fe4-aa53-eca650d4801e</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Foods%20outsized%20impact%20on%20us%20all.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Food's Outsized Impact on Us All</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Foods%20outsized%20impact%20on%20us%20all.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Healthcare Founder: How Healthcare Works in the US</title>
+      <description>Adrian Aoun, CEO/Founder of Forward, an AI-based healthcare system, gives a primer on the US healthcare system.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/How%20Healthcare%20Works%20in%20the%20US.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">c333349d-c9c8-4bf7-80dd-78d72343b6e8</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/How%20Healthcare%20Works%20in%20the%20US.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Healthcare Founder: How Healthcare Works in the US</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/How%20Healthcare%20Works%20in%20the%20US.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>How AI Will Change The Internet</title>
+      <description>Mustafa Suleyman, Co-founder of Google DeepMind, joins VCs Sarah Guo and Elad Gil to discuss how AI will personalize the internet.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/How%20AI%20Will%20Change%20The%20Internet.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">0aaed058-c8ee-4d2c-a065-de400cf6594f</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/How%20AI%20Will%20Change%20The%20Internet.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">How AI Will Change The Internet</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/How%20AI%20Will%20Change%20The%20Internet.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>How Reid Hoffman Got Interested in AI</title>
+      <description>Eric Newcomer sits down with Reid Hoffman - the PayPal mafia member, LinkedIn co-founder, Greylock partner, and Microsoft board member - to talk about the state of AI.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/How%20Reid%20Hoffman%20Got%20Interested%20in%20AI.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">e6e83819-a4d0-4a67-b4f8-c6d21d57ac5f</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/How%20Reid%20Hoffman%20Got%20Interested%20in%20AI.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">How Reid Hoffman Got Interested in AI</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/How%20Reid%20Hoffman%20Got%20Interested%20in%20AI.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Investor Laurence Tosi Reflects on the SVB Crisis</title>
+      <description>Eric is joined by Laurence Tosi, who has been COO at Merrill Lynch, CFO at Blackstone, and CFO at Airbnb. Tosi now runs the investment firm called WestCap.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Investor%20Laurence%20Tosi%20Reflects%20on%20the%20SVB%20Crisis.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">364aaffe-ebd3-4fa0-9582-ced18e70b815</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Investor%20Laurence%20Tosi%20Reflects%20on%20the%20SVB%20Crisis.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Investor Laurence Tosi Reflects on the SVB Crisis</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Investor%20Laurence%20Tosi%20Reflects%20on%20the%20SVB%20Crisis.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Jensen Huang: Employee Selection Affects Culture</title>
+      <description>Nvidia Founder Jensen Huang suggests hiring can come down to candidate personalities and motivations.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Jensen%20Huang%20Employee%20Selection%20Affects%20Culture.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">4406a25f-c657-4a25-8baa-9dac2501c993</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Jensen%20Huang%20Employee%20Selection%20Affects%20Culture.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Jensen Huang: Employee Selection Affects Culture</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Jensen%20Huang%20Employee%20Selection%20Affects%20Culture.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Jensen Huang On How He Weighs Future vs. Present Thinking</title>
+      <description>Sarah Guo and Elad Gil sit down with Jensen Huang, the founder and CEO of NVIDIA, on how much of Nvidia's time is spent on the future vs. here and now.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Jensen%20Huang%20On%20How%20He%20Weighs%20Future%20vs.%20Present%20Thinking.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">e7bb99d4-bac5-4c9c-812c-857b518e10dc</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Jensen%20Huang%20On%20How%20He%20Weighs%20Future%20vs.%20Present%20Thinking.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Jensen Huang On How He Weighs Future vs. Present Thinking</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Jensen%20Huang%20On%20How%20He%20Weighs%20Future%20vs.%20Present%20Thinking.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Jensen Huang On Major Platform Shifts</title>
+      <description>Sarah Guo and Elad Gil sit down with Jensen Huang, Nvidia's founder and CEO, on his thoughts about platform shifts - AI, transformers, etc.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Jensen%20Huang%20On%20Major%20Platform%20Shifts.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">61b82da2-8a1a-4aa0-931a-c488580e3fa0</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Jensen%20Huang%20On%20Major%20Platform%20Shifts.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Jensen Huang On Major Platform Shifts</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Jensen%20Huang%20On%20Major%20Platform%20Shifts.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Keith Rabois: Key Traits In Founders and Younger Investors</title>
+      <description>Keith Rabois of Founders Fund on what he looks for in founders and how to mentor young investors.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Keith%20Rabois-%20Key%20traits%20I%20Look%20For%20in%20Founders%20and%20Younger%20Investors.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">ca6d0cfe-0ee9-49da-982b-dd1076bbba1b</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Keith%20Rabois-%20Key%20traits%20I%20Look%20For%20in%20Founders%20and%20Younger%20Investors.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Keith Rabois: Key Traits In Founders and Younger Investors</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Keith%20Rabois-%20Key%20traits%20I%20Look%20For%20in%20Founders%20and%20Younger%20Investors.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Keith Rabois' Hottest Takes</title>
+      <description>Keith Rabois of Founders Fund discusses his most contrarian ideas in the tech industry.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Keith%20Rabois%20Hottest%20Takes.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">12683727-0b2d-47d5-b0c8-bbd02d89bcc7</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Keith%20Rabois%20Hottest%20Takes.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Keith Rabois' Hottest Takes</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Keith%20Rabois%20Hottest%20Takes.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Lightspeed Partner Ravi Mhatre on the VC Landscape</title>
+      <description>Ravi Mhatre is a co-founder of Lightspeed Venture Partners Over his two decades at Lightspeed, Mhatre has invested in Nutanix, MuleSoft, AppDynamics, Zscaler, and Rubrik to name a few.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Lightspeed%20Partner%20Ravi%20Mhatre%20on%20the%20New%20VC%20Landscape.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">56b10f4d-74cb-41fc-ae5a-53651321d606</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Lightspeed%20Partner%20Ravi%20Mhatre%20on%20the%20New%20VC%20Landscape.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Lightspeed Partner Ravi Mhatre on the VC Landscape</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Lightspeed%20Partner%20Ravi%20Mhatre%20on%20the%20New%20VC%20Landscape.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Matt Lu of Cowboy Ventures on Investing in Generative AI</title>
+      <description>Matt Lu of Cowboy Ventures breaks down his thinking about generative AI amid the hype.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Matt%20Lu%20of%20Cowboy%20Ventures%20on%20investing%20in%20the%20generative%20AI%20space.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">8851ae5a-b789-4f5c-a92b-cb7f81b2b67d</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Matt%20Lu%20of%20Cowboy%20Ventures%20on%20investing%20in%20the%20generative%20AI%20space.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Matt Lu of Cowboy Ventures on Investing in Generative AI</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Matt%20Lu%20of%20Cowboy%20Ventures%20on%20investing%20in%20the%20generative%20AI%20space.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Meta Research Scientist on What We Should Be Researching Today</title>
+      <description>Noam Brown, Research Scientist at Meta, sits down with investors Sarah Guo and Elad Gil to discuss what cutting-edge researchers should focus on.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Meta%20Research%20Scientist%20What%20Should%20We%20Be%20Researching%20Today.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">92e65a81-7b42-4116-9c1c-c7cdaadb28b4</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Meta%20Research%20Scientist%20What%20Should%20We%20Be%20Researching%20Today.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Meta Research Scientist on What We Should Be Researching Today</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Meta%20Research%20Scientist%20What%20Should%20We%20Be%20Researching%20Today.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Microsoft CTO: AI For Everyone</title>
+      <description>VCs Sarah Guo and Elad Gil sit down with Microsoft CTO Kevin Scott to discuss how AI might empower us all.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20CTO%20AI%20For%20Everyone.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">a47112a6-3d08-42bd-8cfd-25bbc966729a</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20CTO%20AI%20For%20Everyone.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Microsoft CTO: AI For Everyone</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20CTO%20AI%20For%20Everyone.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Microsoft CTO: How AI Products Will Be Adopted</title>
+      <description>VCs Sarah Guo and Elad Gil sit down with Microsoft CTO Kevin Scott about he sees AI products being adopted.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20CTO%20How%20AI%20Products%20Will%20Be%20Adopted.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">3da32f2a-7fbb-439b-a354-8632c056c912</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20CTO%20How%20AI%20Products%20Will%20Be%20Adopted.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Microsoft CTO: How AI Products Will Be Adopted</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20CTO%20How%20AI%20Products%20Will%20Be%20Adopted.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Microsoft and OpenAI Partnership</title>
+      <description>VCs Sarah Guo and Elad Gil sit down with Microsoft CTO Kevin Scott to discuss its partnership with OpenAI.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20and%20OpenAI%20Partnership.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">6554079a-f107-489d-855e-96e94e9edefd</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20and%20OpenAI%20Partnership.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Microsoft and OpenAI Partnership</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20and%20OpenAI%20Partnership.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Grata Co-founder on the Evolution of Sourcing Strategies</title>
+      <description>Nevin Raj co-founded Grata, which is seeking to revolutionize VC &amp; PE deal sourcing.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Nevin%20Raj,%20Co-Founder%20of%20Grata,%20on%20the%20evolution%20of%20sourcing%20strategies.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">0d0ed46f-a1ad-418c-aae9-2ff194c819ac</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Nevin%20Raj,%20Co-Founder%20of%20Grata,%20on%20the%20evolution%20of%20sourcing%20strategies.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Grata Co-founder on the Evolution of Sourcing Strategies</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Nevin%20Raj,%20Co-Founder%20of%20Grata,%20on%20the%20evolution%20of%20sourcing%20strategies.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Opportunities In Defense Tech</title>
+      <description>VCs Sarah Guo and Elad Gil sit down with Next-Gen Defense Tech Anduril’s CEO, Brian Schimpf to discuss where opportunities exist in defense tech.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Opportunities%20In%20Defense%20Tech.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">a6f43984-0867-447f-a25b-9adcb55f2a82</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Opportunities%20In%20Defense%20Tech.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Opportunities In Defense Tech</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Opportunities%20In%20Defense%20Tech.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Origins of AI Research Lab Google DeepMind</title>
+      <description>Mustafa Suleyman, Co-founder of Google DeepMind, joins VCs Sarah Guo and Elad Gil to discuss the origin story of DeepMind.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Origins%20of%20AI%20Research%20Lab%20Google%20DeepMind.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">66ae5b15-03e1-4399-9d9d-24a64b8e1a22</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Origins%20of%20AI%20Research%20Lab%20Google%20DeepMind.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Origins of AI Research Lab Google DeepMind</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Origins%20of%20AI%20Research%20Lab%20Google%20DeepMind.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Peter Fenton on the Shelf Life of a VC</title>
+      <description>Benchmark’s Peter Fenton on why everyone gets worse in venture over time.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Peter%20Fenton%20on%20the%20Shelf%20Life%20of%20a%20VC.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">4be27f16-01dd-42ff-b441-6a6dd94dc149</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Peter%20Fenton%20on%20the%20Shelf%20Life%20of%20a%20VC.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Peter Fenton on the Shelf Life of a VC</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Peter%20Fenton%20on%20the%20Shelf%20Life%20of%20a%20VC.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Reid Hoffman on His Relationship with Peter Thiel</title>
+      <description>Eric Newcomer has a conversation about politics with Reid Hoffman - the PayPal mafia member, LinkedIn co-founder, Greylock partner, and Microsoft board member.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Reid%20Hoffman%20on%20His%20Relationship%20with%20Peter%20Thiel.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">85ec3281-5639-4bc6-b6b9-be4b5c299ce2</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Reid%20Hoffman%20on%20His%20Relationship%20with%20Peter%20Thiel.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Reid Hoffman on His Relationship with Peter Thiel</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Reid%20Hoffman%20on%20His%20Relationship%20with%20Peter%20Thiel.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Stories from Working with Steve Jobs</title>
+      <description>George Boutros -  commonly known in Silicon Valley as the man behind many big tech acquisitions - talks about dealmaking with Steve Jobs.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Steve%20Jobs%20Stories.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">e7e48284-49bd-47e8-930a-d6f23d24699f</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Steve%20Jobs%20Stories.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Stories from Working with Steve Jobs</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Steve%20Jobs%20Stories.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Sweetgreen's Early Struggles</title>
+      <description>We all know Sweetgreen as a huge success story. At the beginning, its future was not so clear.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Sweetgreens%20early%20struggles.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">595c8851-52be-4bac-9200-c8bb06a00b7f</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Sweetgreens%20early%20struggles.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Sweetgreen's Early Struggles</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Sweetgreens%20early%20struggles.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Sweetgreen's Turbulent Fundraising Process</title>
+      <description>Sweetgreen could barely raise 300k for its first store in Georgetown.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Sweetgreens%20upanddown%20fundraising%20process.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">08a82530-d2fe-4e12-aaa5-fa8d19b0ba33</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Sweetgreens%20upanddown%20fundraising%20process.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Sweetgreen's Turbulent Fundraising Process</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Sweetgreens%20upanddown%20fundraising%20process.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>The AI Arms Race with Reid Hoffman</title>
+      <description>Eric Newcomer has a conversation about AI with Reid Hoffman - the PayPal mafia member, LinkedIn co-founder, Greylock partner, and Microsoft board member.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20AI%20Arms%20Race%20with%20Reid%20Hoffman.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">369620d6-917c-4c2e-9be0-8b359a0a3c49</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20AI%20Arms%20Race%20with%20Reid%20Hoffman.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">The AI Arms Race with Reid Hoffman</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20AI%20Arms%20Race%20with%20Reid%20Hoffman.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>The Best Way to Learn About An Industry</title>
+      <description>Zach Weinberg is a biotech investor and is the founder of Flatiron Health.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Best%20Way%20to%20Learn%20About%20An%20Industry.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">699db4f9-80e5-4e11-8881-18d0eea12171</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Best%20Way%20to%20Learn%20About%20An%20Industry.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">The Best Way to Learn About An Industry</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Best%20Way%20to%20Learn%20About%20An%20Industry.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>The Founding Story of Buzzfeed</title>
+      <description>Ben Smith - former editor-in-chief of Buzzfeed News - talks about the early days of Buzzfeed and the digital media landscape.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Founding%20Story%20of%20Buzzfeed.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">c1f4893d-70e1-4412-a21c-9f2a1d83ffea</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Founding%20Story%20of%20Buzzfeed.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">The Founding Story of Buzzfeed</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Founding%20Story%20of%20Buzzfeed.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>The Future of AI: What Students Should Study Today</title>
+      <description>VCs Sarah Guo and Elad Gil speak with Microsoft CTO Kevin Scott about what he thinks students should study today in the age of AI.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20AI%20What%20Students%20Should%20Study%20Today.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">5916d138-74f1-4316-befd-8e8cd718bf9c</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20AI%20What%20Students%20Should%20Study%20Today.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">The Future of AI: What Students Should Study Today</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20AI%20What%20Students%20Should%20Study%20Today.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>The Future of Autonomous Weapons</title>
+      <description>VCs Sarah Guo and Elad Gil sit down with Next-Gen Defense Tech Anduril’s CEO, Brian Schimpf to discuss what truly "autonomous" weapons are.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20Autonomous%20Weapons.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">7e77d1a6-6a3a-4a7e-b6a1-18a4be9419a4</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20Autonomous%20Weapons.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">The Future of Autonomous Weapons</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20Autonomous%20Weapons.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>The Future of Climate Investing</title>
+      <description>Union Square Ventures partner Albert Wenger joins the podcast to talk about USV’s new $200 million climate fund.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20Climate%20Investing.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">51ccf609-3d80-429d-8008-a2b84c35cc79</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20Climate%20Investing.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">The Future of Climate Investing</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20Climate%20Investing.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>The Inspiration Behind AI-Powered, Private Search Platform Neeva</title>
+      <description>Sridhar Ramaswamy, co-founder of AI-powered, private search platform Neeva, joins No Priors to discuss the story behind Neeva.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/AI/CORRECTED%20The%20Inspiration%20Behind%20The%20AI-Powered,%20Private%20Search%20Platform%20Neeva.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">ae14af7a-20b9-4de3-8030-aa3b0c484323</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/CORRECTED%20The%20Inspiration%20Behind%20The%20AI-Powered,%20Private%20Search%20Platform%20Neeva.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">The Inspiration Behind AI-Powered, Private Search Platform Neeva</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/CORRECTED%20The%20Inspiration%20Behind%20The%20AI-Powered,%20Private%20Search%20Platform%20Neeva.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>The Soul Searching That Led to Spotify’s Creation</title>
+      <description>Spotify CEO Daniel Ek talks about the emotional journey that led to him starting Spotify.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Daniel%20Ek%20Soul%20Searching.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">7ee13ce0-f88e-4f7d-b3ba-5f7dd4b040eb</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Daniel%20Ek%20Soul%20Searching.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">The Soul Searching That Led to Spotify’s Creation</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Daniel%20Ek%20Soul%20Searching.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>The Story Behind Zuck Firing Palmer Luckey</title>
+      <description>Logan sits down with Oculus and Anduril founder Palmer Luckey to talk about the controversy that got him fired from Facebook.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Story%20Behind%20Zuck%20Firing%20Palmer%20Luckey.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">62027a93-0520-456f-8c50-16047daa0058</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Story%20Behind%20Zuck%20Firing%20Palmer%20Luckey.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">The Story Behind Zuck Firing Palmer Luckey</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Story%20Behind%20Zuck%20Firing%20Palmer%20Luckey.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>The Tough Environment for Consumer Startups</title>
+      <description>Benchmark Partner Sarah Tavel joins Eric Newcomer to talk about the state of consumer startups, short form video, and her time at Pinterest.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Tough%20Environment%20for%20Consumer%20Startups.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">5d37b361-4226-475f-a79a-b7097aeb58c9</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Tough%20Environment%20for%20Consumer%20Startups.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">The Tough Environment for Consumer Startups</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Tough%20Environment%20for%20Consumer%20Startups.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Venture Investing in Latin America</title>
+      <description>Carlos Alonso-Torras is an operator turned investor at FinTech Collective with a passion for investing in LatAm.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20and%20Growth%20Investing%20in%20Latin%20America.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">f5fee53e-b34a-4694-a5fe-d2f0934394f3</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20and%20Growth%20Investing%20in%20Latin%20America.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Venture Investing in Latin America</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20and%20Growth%20Investing%20in%20Latin%20America.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Weighing Costs vs. Market Share in Search (Microsoft, ChatGPT, etc.)</title>
+      <description>Sridhar Ramaswamy, co-founder of AI-powered, private search platform Neeva, on how Microsoft should approach its search opportunity.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Weighing%20Costs%20vs.%20Market%20Share%20in%20Search%20(Microsoft,%20ChatGPT,%20etc.).mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">5d45fa79-3273-45cd-93f4-fc667f782e66</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Weighing%20Costs%20vs.%20Market%20Share%20in%20Search%20(Microsoft,%20ChatGPT,%20etc.).mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Weighing Costs vs. Market Share in Search (Microsoft, ChatGPT, etc.)</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Weighing%20Costs%20vs.%20Market%20Share%20in%20Search%20(Microsoft,%20ChatGPT,%20etc.).mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>What Is Nvidia's Technical Advantage in AI?</title>
+      <description>Sarah Guo and Elad Gil sit down with Jensen Huang, the founder and CEO of NVIDIA, to get at what differentiates Nvidia in AI?</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/AI/What%20Is%20Nvidia's%20Technical%20Advantage%20in%20AI_.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">84568a55-883e-404c-bd53-2263208d60cb</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/What%20Is%20Nvidia's%20Technical%20Advantage%20in%20AI_.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">What Is Nvidia's Technical Advantage in AI?</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/What%20Is%20Nvidia's%20Technical%20Advantage%20in%20AI_.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Why Benchmark Doesn’t Have a Website</title>
+      <description>Benchmark’s Peter Fenton on the contrarian decision to not have a firm website.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Why%20Benchmark%20Doesnt%20Have%20a%20Website.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">17df0eff-3550-49e8-9c66-a3c9e11c85e8</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Why%20Benchmark%20Doesnt%20Have%20a%20Website.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Why Benchmark Doesn’t Have a Website</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Why%20Benchmark%20Doesnt%20Have%20a%20Website.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Why the Airbnb Founding Story is a Fairytale</title>
+      <description>Peter Reinhardt, CEO/Founder Charm Industrial, on going to market and the unglamorous parts of starting a company.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Why%20the%20Airbnb%20Founding%20Story%20is%20a%20Fairytale.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">c157134e-03da-4318-87aa-01b5859b21f4</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Why%20the%20Airbnb%20Founding%20Story%20is%20a%20Fairytale.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Why the Airbnb Founding Story is a Fairytale</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Why%20the%20Airbnb%20Founding%20Story%20is%20a%20Fairytale.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+    <item>
+      <title>Will Large VC Funds Persist?</title>
+      <description>Union Square Ventures partner Albert Wenger shares his thoughts on the trend of VC ‘megafunds’ and the venture landscape.</description>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Will%20Large%20VC%20Funds%20Persist.mp4?tr=f-webm</link>
+      <category>NEWS</category>
+      <category>PODCAST</category>
+      <guid isPermaLink="false">6538bf48-33ff-4284-ba14-3722e773083b</guid>
+      <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Will%20Large%20VC%20Funds%20Persist.mp4?tr=f-webm" width="1920" height="1080">
+        <media:rating scheme="urn:simple">adult</media:rating>
+        <media:rating scheme="urn:mpaa">pg</media:rating>
+        <media:title type="plain">Will Large VC Funds Persist?</media:title>
+        <media:description type="html"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Will%20Large%20VC%20Funds%20Persist.mp4/ik-thumbnail.jpg"/>
+        <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
+      </media:content>
+    </item>
+  </channel>
+</rss>
