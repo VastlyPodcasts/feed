@@ -464,7 +464,7 @@
         <media:rating scheme="urn:mpaa">pg</media:rating>
         <media:title type="plain">Opportunities in AI Innovation</media:title>
         <media:description type="html"/>
-        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Opportunities%20in%20AI%20Innovation.mp4/ik-thumbnail.jpg?tr=so-30,q-100"/>
+        <media:thumbnail url="https://ik.imagekit.io/4ni2tyc01/Firebase/Opportunities%20in%20AI%20Innovation.mp4/ik-thumbnail.jpg?tr=q-100"/>
         <media:keywords>Business, Tech, Technology, Podcast, Video, Consumer Tech, Entrepreneurship</media:keywords>
       </media:content>
     </item>
