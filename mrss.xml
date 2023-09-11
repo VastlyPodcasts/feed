@@ -4,19 +4,19 @@
     <atom:link href="https://vastlypodcasts.github.io/feed/mrss.xml" rel="self" type="application/rss+xml"/>
     <title>Vastly Business</title>
     <link>https://www.vastlypodcasts.com/</link>
-    <description>A video-first podcast discovery platform, available on iOS.</description>
+    <description>Vastly Business brings you snackable, timely, and insightful clips from the best business &amp; tech podcasts around. Vastly Business is powered by Vastly, a new video-first podcast discovery platform. Visit www.vastlypodcasts.com to learn more.</description>
     <language>en-us</language>
-    <pubDate>Tue, 16 May 2023 02:00:00 -0700</pubDate>
+    <pubDate>Sun, 10 Sep 2023 02:00:00 -0700</pubDate>
     <managingEditor>admin@vastlypodcasts.com (Buzz)</managingEditor>
     <webMaster>admin@vastlypodcasts.com (Casey)</webMaster>
     <item>
       <title>AI Expert: 3 Reasons AI Would Turn Against Humans</title>
       <description>Artificial intelligence safety expert Eliezer Yudkowsky discusses the dangers that come with future technology advancements.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/AI/3%20Reasons%20AI%20Would%20Turn%20Against%20Humans.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">a155f677-2e99-453d-a8c0-2d1117accb4e</guid>
+      <guid isPermaLink="false">155f50e1-a8ee-454f-b0e7-5ae870035989</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/3%20Reasons%20AI%20Would%20Turn%20Against%20Humans.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -29,11 +29,11 @@
     <item>
       <title>Advice for Founders in Today’s VC Landscape</title>
       <description>Co-Founder of Box Aaron Levine gives his advice to founders amid a new paradigm in venture capital.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Advice%20for%20Founders%20in%20Todays%20VC%20Landscape.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">b703bd79-c414-4143-ba25-453ffa644140</guid>
+      <guid isPermaLink="false">1ae16738-13c4-4baa-989b-2cb5871bde42</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Advice%20for%20Founders%20in%20Todays%20VC%20Landscape.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -46,11 +46,11 @@
     <item>
       <title>Bejul Somaia of Lightspeed Ventures on Investing in India</title>
       <description>Lightspeed’s Bejul Somaia joins the Eric Newcomer to talk about Lightspeed’s investments in India and its global strategy.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Bejul%20Somaia%20of%20Lightspeed%20Ventures%20on%20Investing%20in%20India.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">b45d3d2b-d4d3-424e-9e3a-7adc3d37a7bb</guid>
+      <guid isPermaLink="false">d8d00dc6-3b82-478c-98ea-4e79543c8be2</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Bejul%20Somaia%20of%20Lightspeed%20Ventures%20on%20Investing%20in%20India.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -63,11 +63,11 @@
     <item>
       <title>Bloomberg’s Matt Levine on Leaving Goldman Sachs</title>
       <description>Bloomberg columnist Matt Levine talks about his career path from lawyer to banker to writer.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Bloombergs%20Matt%20Levine%20on%20Leaving%20Goldman%20Sachs.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">1180f578-cef4-4a66-b7ff-24fc2cd677cd</guid>
+      <guid isPermaLink="false">b75f59cb-25ac-44a0-97d0-1eb141d134d4</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Bloombergs%20Matt%20Levine%20on%20Leaving%20Goldman%20Sachs.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -80,11 +80,11 @@
     <item>
       <title>Building a Next-Gen Defense Tech Company</title>
       <description>VCs Sarah Guo and Elad Gil sit down with Next-Gen Defense Tech Anduril’s CEO, Brian Schimpf to discuss what it's like building Anduril.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Building%20a%20Next%20Generation%20Defense%20Tech%20Company.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">2bb6da0d-1071-4509-8dee-6df752d2324a</guid>
+      <guid isPermaLink="false">e4957a6c-f6f8-4475-83ef-252db8a94b62</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Building%20a%20Next%20Generation%20Defense%20Tech%20Company.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -97,11 +97,11 @@
     <item>
       <title>Building an Investment Thesis and Sourcing Deals</title>
       <description>Dawit Heck of Bain Capital Ventures joins Partner Path to talk about his approach to investing and how he gets in touch with good companies.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Building%20an%20Investment%20Thesis%20and%20Sourcing%20Deals.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">c200ce70-1dce-4370-b681-daa2e2f1fefe</guid>
+      <guid isPermaLink="false">4ec2d1bb-6604-4682-a86b-39ca4c8b3e0b</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Building%20an%20Investment%20Thesis%20and%20Sourcing%20Deals.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -114,11 +114,11 @@
     <item>
       <title>Co-Founder of Lightspeed: How to Invest Amid Hype Cycles</title>
       <description>Ravi Mhatre is a co-founder of Lightspeed Venture Partners Over his two decades at Lightspeed, Mhatre has invested in Nutanix, MuleSoft, and AppDynamics to name a few.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Co-Founder%20of%20Lightspeed%20on%20How%20to%20Invest%20Amid%20Hype%20Cycles.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">19a7aa1b-6909-4f2c-8cf2-7791ef9f0a05</guid>
+      <guid isPermaLink="false">b7f7ebd5-e1f0-4b91-bb09-d581f602a9c6</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Co-Founder%20of%20Lightspeed%20on%20How%20to%20Invest%20Amid%20Hype%20Cycles.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -131,11 +131,11 @@
     <item>
       <title>Co-Founder of Skype on the Risks of AI</title>
       <description>Jaan Tallinn is the Co-Founder of Skype and one of the most prominent voices in AI safety.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Co-Founder%20of%20Skype%20on%20the%20Risks%20of%20AI.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">925c6faa-bbc8-420e-802e-6dfe5ad2b131</guid>
+      <guid isPermaLink="false">7b5da650-0dad-4a25-8cf1-dac0a84b81cf</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Co-Founder%20of%20Skype%20on%20the%20Risks%20of%20AI.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -148,11 +148,11 @@
     <item>
       <title>Defense Tech CEO: Autonomous Drones, Submarines, and More</title>
       <description>VCs Sarah Guo and Elad Gil sit down with Next-Gen Defense Tech Anduril’s CEO, Brian Schimpf to discuss the future of weapons.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Defense%20Tech%20CEO%20Autonomous%20Drones%20Submarines%20and%20More.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">a9a760c9-2eb4-4eed-b435-a71742cf1f79</guid>
+      <guid isPermaLink="false">d8378ace-52a2-48a9-bbae-4a1b8d52b6c2</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Defense%20Tech%20CEO%20Autonomous%20Drones%20Submarines%20and%20More.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -165,11 +165,11 @@
     <item>
       <title>Facebook's Impact on AI Research Lab Google DeepMind</title>
       <description>Mustafa Suleyman, Co-founder of Google DeepMind, joins VCs Sarah Guo and Elad Gil to discuss how Facebook's growth impacted him.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Facebooks%20Impact%20on%20AI%20Research%20Lab%20Google%20DeepMind.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">425093cb-3d6c-4496-be9d-b3459f0bacf5</guid>
+      <guid isPermaLink="false">46da5aab-0b36-4e2c-a13a-5856f7c0606b</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Facebooks%20Impact%20on%20AI%20Research%20Lab%20Google%20DeepMind.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -182,11 +182,11 @@
     <item>
       <title>Food's Outsized Impact on Us All</title>
       <description>Jonathan Neman, Sweetgreen's CEO &amp; Founder, on just how important healthy food is - and just how unhealthy most foods are.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Foods%20outsized%20impact%20on%20us%20all.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">2ee18bc0-558e-425d-993c-157fa4827cd3</guid>
+      <guid isPermaLink="false">0079751e-5b9d-4af9-8048-1140bd1981e4</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Foods%20outsized%20impact%20on%20us%20all.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -199,11 +199,11 @@
     <item>
       <title>How AI Will Change The Internet</title>
       <description>Mustafa Suleyman, Co-founder of Google DeepMind, joins VCs Sarah Guo and Elad Gil to discuss how AI will personalize the internet.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/How%20AI%20Will%20Change%20The%20Internet.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">c700103c-58c0-4b3c-8086-58bd982fb199</guid>
+      <guid isPermaLink="false">a18e4351-6023-4963-8b5f-786c82432726</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/How%20AI%20Will%20Change%20The%20Internet.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -216,11 +216,11 @@
     <item>
       <title>How Reid Hoffman Got Interested in AI</title>
       <description>Eric Newcomer sits down with Reid Hoffman - the PayPal mafia member, LinkedIn co-founder, Greylock partner, and Microsoft board member - to talk about the state of AI.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/How%20Reid%20Hoffman%20Got%20Interested%20in%20AI.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">b2ae1a87-fca8-4b29-9ba1-7365f1209fa0</guid>
+      <guid isPermaLink="false">bd472c95-5870-4788-8a68-86eb71144dd1</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/How%20Reid%20Hoffman%20Got%20Interested%20in%20AI.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -233,11 +233,11 @@
     <item>
       <title>Investor Laurence Tosi Reflects on the SVB Crisis</title>
       <description>Eric is joined by Laurence Tosi, who has been COO at Merrill Lynch, CFO at Blackstone, and CFO at Airbnb. Tosi now runs the investment firm called WestCap.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Investor%20Laurence%20Tosi%20Reflects%20on%20the%20SVB%20Crisis.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">d55421f2-0a6c-44a1-9412-f224672aa49a</guid>
+      <guid isPermaLink="false">c8a568ea-ffdf-478d-8a2e-e7a711200fc6</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Investor%20Laurence%20Tosi%20Reflects%20on%20the%20SVB%20Crisis.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -250,11 +250,11 @@
     <item>
       <title>Jensen Huang On How He Weighs Future vs. Present Thinking</title>
       <description>Sarah Guo and Elad Gil sit down with Jensen Huang, the founder and CEO of NVIDIA, on how much of Nvidia's time is spent on the future vs. here and now.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Jensen%20Huang%20On%20How%20He%20Weighs%20Future%20vs.%20Present%20Thinking.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">e45abe82-215f-425d-b43e-a6cc13e8bed3</guid>
+      <guid isPermaLink="false">ff45d6a0-7840-498b-b439-93aa9d05d2c9</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Jensen%20Huang%20On%20How%20He%20Weighs%20Future%20vs.%20Present%20Thinking.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -267,11 +267,11 @@
     <item>
       <title>Jensen Huang On Major Platform Shifts</title>
       <description>Sarah Guo and Elad Gil sit down with Jensen Huang, Nvidia's founder and CEO, on his thoughts about platform shifts - AI, transformers, etc.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Jensen%20Huang%20On%20Major%20Platform%20Shifts.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">bb58becb-c219-4283-9528-61f96dd890a6</guid>
+      <guid isPermaLink="false">461fde86-35be-442d-993d-78fa735c1e94</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/AI/Jensen%20Huang%20On%20Major%20Platform%20Shifts.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -284,11 +284,11 @@
     <item>
       <title>Keith Rabois: Key Traits In Founders and Younger Investors</title>
       <description>Keith Rabois of Founders Fund on what he looks for in founders and how to mentor young investors.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Keith%20Rabois-%20Key%20traits%20I%20Look%20For%20in%20Founders%20and%20Younger%20Investors.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">aa3f9611-f487-49f4-a3bc-401ae3bc5288</guid>
+      <guid isPermaLink="false">1042f6da-22d1-4bc6-b310-f9067800d999</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Keith%20Rabois-%20Key%20traits%20I%20Look%20For%20in%20Founders%20and%20Younger%20Investors.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -301,11 +301,11 @@
     <item>
       <title>Keith Rabois' Hottest Takes</title>
       <description>Keith Rabois of Founders Fund discusses his most contrarian ideas in the tech industry.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Keith%20Rabois%20Hottest%20Takes.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">8dac4f21-45a1-48a2-a902-cb901785afae</guid>
+      <guid isPermaLink="false">b173b36c-9495-4e27-93ce-42ab858def48</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Keith%20Rabois%20Hottest%20Takes.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -318,11 +318,11 @@
     <item>
       <title>Lightspeed Partner Ravi Mhatre on the VC Landscape</title>
       <description>Ravi Mhatre is a co-founder of Lightspeed Venture Partners. Over his two decades at Lightspeed, Mhatre has invested in Nutanix, MuleSoft, and AppDynamics, to name a few.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Lightspeed%20Partner%20Ravi%20Mhatre%20on%20the%20New%20VC%20Landscape.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">83e1e263-3859-4796-a741-b916b8d6b8ad</guid>
+      <guid isPermaLink="false">84d63f3d-1f50-431f-9726-025a0e24b54c</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Lightspeed%20Partner%20Ravi%20Mhatre%20on%20the%20New%20VC%20Landscape.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -335,11 +335,11 @@
     <item>
       <title>Matt Lu of Cowboy Ventures on Investing in Generative AI</title>
       <description>Matt Lu of Cowboy Ventures breaks down his thinking about generative AI amid the hype.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Matt%20Lu%20of%20Cowboy%20Ventures%20on%20investing%20in%20the%20generative%20AI%20space.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">349f465c-dc90-43c2-8e0b-74b9ec87d3db</guid>
+      <guid isPermaLink="false">21124e17-eaa3-45a6-a097-4b2236ef885b</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Matt%20Lu%20of%20Cowboy%20Ventures%20on%20investing%20in%20the%20generative%20AI%20space.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -352,11 +352,11 @@
     <item>
       <title>Meta Research Scientist on What We Should Be Researching Today</title>
       <description>Noam Brown, Research Scientist at Meta, sits down with investors Sarah Guo and Elad Gil to discuss what cutting-edge researchers should focus on.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Meta%20Research%20Scientist%20What%20Should%20We%20Be%20Researching%20Today.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">00ea74d4-0d8e-496f-847d-299da922f89a</guid>
+      <guid isPermaLink="false">9594a318-111d-46f6-80a3-f5b150cd3e7e</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Meta%20Research%20Scientist%20What%20Should%20We%20Be%20Researching%20Today.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -369,11 +369,11 @@
     <item>
       <title>Microsoft CTO: AI For Everyone</title>
       <description>VCs Sarah Guo and Elad Gil sit down with Microsoft CTO Kevin Scott to discuss how AI might empower us all.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20CTO%20AI%20For%20Everyone.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">c7a38e7d-7d07-4b61-bcc0-9b88ea59668c</guid>
+      <guid isPermaLink="false">9c34728a-2d69-4ed9-b18d-72f7142c172e</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20CTO%20AI%20For%20Everyone.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -386,11 +386,11 @@
     <item>
       <title>Microsoft CTO: How AI Products Will Be Adopted</title>
       <description>VCs Sarah Guo and Elad Gil sit down with Microsoft CTO Kevin Scott about he sees AI products being adopted.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20CTO%20How%20AI%20Products%20Will%20Be%20Adopted.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">b3cee9cd-0d79-4890-9565-c012b4b00ae9</guid>
+      <guid isPermaLink="false">29812317-9122-4646-8111-c4163d2acd76</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20CTO%20How%20AI%20Products%20Will%20Be%20Adopted.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -403,11 +403,11 @@
     <item>
       <title>Microsoft and OpenAI Partnership</title>
       <description>VCs Sarah Guo and Elad Gil sit down with Microsoft CTO Kevin Scott to discuss its partnership with OpenAI.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20and%20OpenAI%20Partnership.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">9fae1853-4e2a-4ba5-95ba-95409465d01d</guid>
+      <guid isPermaLink="false">faa14157-437e-44b5-aac0-68d843005ed7</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Microsoft%20and%20OpenAI%20Partnership.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -420,11 +420,11 @@
     <item>
       <title>Grata Co-founder on the Evolution of Sourcing Strategies</title>
       <description>Nevin Raj co-founded Grata, which is seeking to revolutionize VC &amp; PE deal sourcing.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Nevin%20Raj,%20Co-Founder%20of%20Grata,%20on%20the%20evolution%20of%20sourcing%20strategies.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">457bf1ba-3173-453c-a4d6-cdbf0d0bd55f</guid>
+      <guid isPermaLink="false">35fdaae9-50c3-443b-afe5-f777ae44f584</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Nevin%20Raj,%20Co-Founder%20of%20Grata,%20on%20the%20evolution%20of%20sourcing%20strategies.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -437,11 +437,11 @@
     <item>
       <title>Opportunities In Defense Tech</title>
       <description>VCs Sarah Guo and Elad Gil sit down with Next-Gen Defense Tech Anduril’s CEO, Brian Schimpf to discuss where opportunities exist in defense tech.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Opportunities%20In%20Defense%20Tech.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">e46afb09-76e8-43bd-97e6-ae32f972459f</guid>
+      <guid isPermaLink="false">67a401b1-726e-4076-a068-b2c3a206238a</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Opportunities%20In%20Defense%20Tech.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -454,11 +454,11 @@
     <item>
       <title>Opportunities in AI Innovation</title>
       <description>Investors Sarah Guo and Elad Gil share their expert views on where the billion dollar opportunities lie in AI.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Opportunities%20in%20AI%20Innovation.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">29684005-c232-410e-93fb-321dd14546de</guid>
+      <guid isPermaLink="false">c1f52450-f0fa-4250-8b35-ba953152d1fd</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Opportunities%20in%20AI%20Innovation.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -471,11 +471,11 @@
     <item>
       <title>Origins of AI Research Lab Google DeepMind</title>
       <description>Mustafa Suleyman, Co-founder of Google DeepMind, joins VCs Sarah Guo and Elad Gil to discuss the origin story of DeepMind.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Origins%20of%20AI%20Research%20Lab%20Google%20DeepMind.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">77ddb1f6-44f3-4831-b47f-2365f2523c40</guid>
+      <guid isPermaLink="false">a967cde4-2bf7-4ef6-b989-4c45e500a446</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Origins%20of%20AI%20Research%20Lab%20Google%20DeepMind.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -488,11 +488,11 @@
     <item>
       <title>Peter Fenton on the Shelf Life of a VC</title>
       <description>Benchmark’s Peter Fenton on why everyone gets worse in venture over time.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Peter%20Fenton%20on%20the%20Shelf%20Life%20of%20a%20VC.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">c8988747-8d30-4f1d-8aa6-3820e4a9249b</guid>
+      <guid isPermaLink="false">f0671107-362c-41c5-ac0a-26566c861d35</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Peter%20Fenton%20on%20the%20Shelf%20Life%20of%20a%20VC.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -505,11 +505,11 @@
     <item>
       <title>Sarah Guo and Elad Gil: Regulating AI</title>
       <description>Investors Sarah Guo and Elad Gil discuss the risks and rewards of potential AI regulation.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Regulating%20AI.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">12056e6b-532a-4863-933f-3fff8e75f9cb</guid>
+      <guid isPermaLink="false">148b1fa7-aaab-47e5-a414-3e6108bee3aa</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Regulating%20AI.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -522,11 +522,11 @@
     <item>
       <title>Reid Hoffman on His Relationship with Peter Thiel</title>
       <description>Eric Newcomer has a conversation about politics with Reid Hoffman - the PayPal mafia member, LinkedIn co-founder, Greylock partner, and Microsoft board member.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Reid%20Hoffman%20on%20His%20Relationship%20with%20Peter%20Thiel.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">94ef9e24-3455-4539-938f-ea39f3f2c288</guid>
+      <guid isPermaLink="false">c1d9914d-6219-430a-9c9b-581cff4bea07</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Reid%20Hoffman%20on%20His%20Relationship%20with%20Peter%20Thiel.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -539,11 +539,11 @@
     <item>
       <title>Runway ML CEO: Finding Product Market Fit</title>
       <description>Sarah Guo and Elad Gil talk to Cristobal Valenzuela, CEO of Runway, on finding product market fit for unicorn startup Runway ML.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Runway%20ML%20CEO%20Finding%20Product%20Market%20Fit.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">4f1755af-ba0e-4a98-9465-fe2fd1aa56ff</guid>
+      <guid isPermaLink="false">d648f342-3688-40d0-a6cf-7848c6a666ad</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Runway%20ML%20CEO%20Finding%20Product%20Market%20Fit.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -556,11 +556,11 @@
     <item>
       <title>Slice CEO On His Challenges Raising Capital</title>
       <description>Turner Novak sits down with Ilir Sela, Founder &amp; CEO of Slice, to discuss some of the fundraising lessons Ilir experienced in Slice's journey.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Slice%20CEO%20On%20His%20Challenges%20Raising%20Capital.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">36fcee9e-8140-43fd-b659-46383636140c</guid>
+      <guid isPermaLink="false">7095ad22-f764-4e56-aeaa-51dbb0eb7647</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Slice%20CEO%20On%20His%20Challenges%20Raising%20Capital.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -573,11 +573,11 @@
     <item>
       <title>Slice CEO: The Story of His First Customer</title>
       <description>Turner Novak sits down with Ilir Sela, Founder &amp; CEO of Slice, on how the all-in-one software platform for pizzeria's got its first customer.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Slice%20CEO%20The%20Story%20of%20His%20First%20Customer.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">1f2e0e67-0aef-4500-9fa8-d93ebc11a2ad</guid>
+      <guid isPermaLink="false">a0fa7877-570f-4791-8452-24b29fb496b0</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Slice%20CEO%20The%20Story%20of%20His%20First%20Customer.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -590,11 +590,11 @@
     <item>
       <title>Stories from Working with Steve Jobs</title>
       <description>George Boutros - commonly known in Silicon Valley as the man behind many big tech acquisitions - talks about dealmaking with Steve Jobs.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Steve%20Jobs%20Stories.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">e09247f9-87e0-4847-926b-c703018f3ac3</guid>
+      <guid isPermaLink="false">e37b8f0d-46b2-44f7-8593-61204dc91c3b</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Steve%20Jobs%20Stories.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -607,11 +607,11 @@
     <item>
       <title>Sweetgreen's Turbulent Fundraising Process</title>
       <description>Sweetgreen could barely raise 300k for its first store in Georgetown.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Sweetgreens%20upanddown%20fundraising%20process.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">fabc369f-3d64-41ad-b291-877bb72d9d82</guid>
+      <guid isPermaLink="false">f5b02972-7f1e-471f-9b1c-77d7429bb572</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Sweetgreens%20upanddown%20fundraising%20process.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -624,11 +624,11 @@
     <item>
       <title>The AI Arms Race with Reid Hoffman</title>
       <description>Eric Newcomer has a conversation about AI with Reid Hoffman - the PayPal mafia member, LinkedIn co-founder, Greylock partner, and Microsoft board member.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20AI%20Arms%20Race%20with%20Reid%20Hoffman.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">e640d072-4473-4fe7-b639-be60244b690d</guid>
+      <guid isPermaLink="false">a7ad9047-d595-4707-8e21-7a546c373292</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20AI%20Arms%20Race%20with%20Reid%20Hoffman.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -641,11 +641,11 @@
     <item>
       <title>The Best Way to Learn About Any Industry</title>
       <description>Zach Weinberg is a biotech investor and is the founder of Flatiron Health.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Best%20Way%20to%20Learn%20About%20An%20Industry.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">331739be-9993-49bf-81eb-e9f3cd8574c6</guid>
+      <guid isPermaLink="false">0d545b99-488a-4bf7-bb4e-adab6ab21c2e</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Best%20Way%20to%20Learn%20About%20An%20Industry.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -658,11 +658,11 @@
     <item>
       <title>The Founding Story of Buzzfeed</title>
       <description>Ben Smith - former editor-in-chief of Buzzfeed News - talks about the early days of Buzzfeed and the digital media landscape.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Founding%20Story%20of%20Buzzfeed.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">2e553b54-a693-42a7-bcd6-1635d7d190fc</guid>
+      <guid isPermaLink="false">9a24a69e-5b65-400b-a0d5-3efe5c2a9547</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Founding%20Story%20of%20Buzzfeed.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -675,11 +675,11 @@
     <item>
       <title>The Future of AI: What Students Should Study Today</title>
       <description>VCs Sarah Guo and Elad Gil speak with Microsoft CTO Kevin Scott about what he thinks students should study today in the age of AI.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20AI%20What%20Students%20Should%20Study%20Today.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">7b899223-6a7c-421b-b61f-65b98c23df2c</guid>
+      <guid isPermaLink="false">27e2c205-abcb-4869-a471-21042f49e15d</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20AI%20What%20Students%20Should%20Study%20Today.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -692,11 +692,11 @@
     <item>
       <title>The Future of Autonomous Weapons</title>
       <description>VCs Sarah Guo and Elad Gil sit down with Next-Gen Defense Tech Anduril’s CEO, Brian Schimpf to discuss what truly "autonomous" weapons are.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20Autonomous%20Weapons.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">5a8b2f62-a12e-4e50-b2cb-68fd08db3a6e</guid>
+      <guid isPermaLink="false">ad815406-78ff-47e3-b11d-2625e1c07e93</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20Autonomous%20Weapons.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -709,11 +709,11 @@
     <item>
       <title>The Future of Climate Investing</title>
       <description>Union Square Ventures partner Albert Wenger joins the podcast to talk about USV’s new $200 million climate fund.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20Climate%20Investing.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">a1298ccf-db57-4874-82b2-a8c8d4338fda</guid>
+      <guid isPermaLink="false">3fb1d9f8-e674-44cd-8230-447016939ea1</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Future%20of%20Climate%20Investing.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -726,11 +726,11 @@
     <item>
       <title>The Soul Searching That Led to Spotify’s Creation</title>
       <description>Spotify CEO Daniel Ek talks about the emotional journey that led to him starting Spotify.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Daniel%20Ek%20Soul%20Searching.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">0c440055-86a3-4654-bb99-c9282407270b</guid>
+      <guid isPermaLink="false">09be58d0-83ac-46f6-9995-d8e2c42866ca</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Daniel%20Ek%20Soul%20Searching.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -743,11 +743,11 @@
     <item>
       <title>The State of Open-Source AI Models</title>
       <description>Investors Sarah Guo and Elad Gil discuss the evolution and current landscape of open-source AI models.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20State%20of%20Open-Source%20AI%20Models.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">2ec10c30-11b0-4ade-a054-637bb1dbb455</guid>
+      <guid isPermaLink="false">63f4294d-52a1-4ff2-bd04-23270cab219a</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20State%20of%20Open-Source%20AI%20Models.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -760,11 +760,11 @@
     <item>
       <title>The Tough Environment for Consumer Startups</title>
       <description>Benchmark Partner Sarah Tavel joins Eric Newcomer to talk about the state of consumer startups, short form video, and her time at Pinterest.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Tough%20Environment%20for%20Consumer%20Startups.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">515f05cc-a5a5-44f7-bcf1-1addc74ddbb0</guid>
+      <guid isPermaLink="false">18ce457e-bb25-4221-9254-3105045e09c4</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/The%20Tough%20Environment%20for%20Consumer%20Startups.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -777,11 +777,11 @@
     <item>
       <title>Tim Urban: What Makes Elon Musk Special</title>
       <description>Tim Urban is the Author of the blog "Wait But Why" and has one of the most listened-to Ted talks of all time. Logan and Tim dive into the unique traits of Elon Musk and his similarity to Steve Jobs.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Tim%20Urban%20What%20Makes%20Elon%20Musk%20Special.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">9077c6fe-d07b-4898-955e-df298b49954f</guid>
+      <guid isPermaLink="false">5bf6f50f-0687-4d41-9a8f-06e0057ab1cd</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Tim%20Urban%20What%20Makes%20Elon%20Musk%20Special.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -794,11 +794,11 @@
     <item>
       <title>Venture Investing in Latin America</title>
       <description>Carlos Alonso-Torras is an operator turned investor at FinTech Collective with a passion for investing in LatAm.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20and%20Growth%20Investing%20in%20Latin%20America.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">8edf4ebb-132f-491d-9c5b-794372380d88</guid>
+      <guid isPermaLink="false">3784c12c-d544-445c-a51b-0fd8bbbbf660</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20and%20Growth%20Investing%20in%20Latin%20America.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -811,11 +811,11 @@
     <item>
       <title>Why Benchmark Doesn’t Have a Website</title>
       <description>Benchmark’s Peter Fenton on the contrarian decision to not have a firm website.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Why%20Benchmark%20Doesnt%20Have%20a%20Website.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">91b1b53b-7bc5-40e8-9b30-001ae8f70130</guid>
+      <guid isPermaLink="false">18cca862-0f03-4d49-9456-d8a07f2943e8</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Venture%20Capital/Why%20Benchmark%20Doesnt%20Have%20a%20Website.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -828,11 +828,11 @@
     <item>
       <title>Why the Airbnb Founding Story is a Fairytale</title>
       <description>Peter Reinhardt, CEO/Founder Charm Industrial, on going to market and the unglamorous parts of starting a company.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Why%20the%20Airbnb%20Founding%20Story%20is%20a%20Fairytale.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">8e5dceb4-109a-44e1-8e9d-a5f1ba9cba48</guid>
+      <guid isPermaLink="false">29f7a9a0-1eb4-40f2-87bc-e4ed6e760abf</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Entrepreneurship/Why%20the%20Airbnb%20Founding%20Story%20is%20a%20Fairytale.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
@@ -845,11 +845,11 @@
     <item>
       <title>Will Large VC Funds Persist?</title>
       <description>Union Square Ventures partner Albert Wenger shares his thoughts on the trend of VC ‘megafunds’ and the venture landscape.</description>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <link>https://ik.imagekit.io/4ni2tyc01/Firebase/Will%20Large%20VC%20Funds%20Persist.mp4?tr=f-webm</link>
       <category>NEWS</category>
       <category>PODCAST</category>
-      <guid isPermaLink="false">54dab233-af7c-4429-91da-155fe22bfeba</guid>
+      <guid isPermaLink="false">6ba4274a-9d3c-400c-a6bd-5790c3e449a8</guid>
       <media:content url="https://ik.imagekit.io/4ni2tyc01/Firebase/Will%20Large%20VC%20Funds%20Persist.mp4?tr=f-webm" width="1920" height="1080">
         <media:rating scheme="urn:simple">adult</media:rating>
         <media:rating scheme="urn:mpaa">pg</media:rating>
